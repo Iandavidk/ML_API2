@@ -1,5 +1,6 @@
+# Minimal requirements for cloud deployment on pythonanywhere.com
+
 Flask
 pickle-mixin
-matplotlib
-pandas
-scikit-learn
+numpy==1.24.2
+scikit-learn==1.2.2
